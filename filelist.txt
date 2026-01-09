@@ -1,0 +1,7 @@
+file '00351.MTS'
+file '00352.MTS'
+file '00353.MTS'
+file '00354.MTS'
+file '00355.MTS'
+file '00356.MTS'
+file '00357.MTS'
